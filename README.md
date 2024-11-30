@@ -1,1 +1,1 @@
-# Flipkart-Discount-Rating-Analysis-Using-Excel
+# Flipkart-Discount-And-Rating-Analysis-Using-Excel
